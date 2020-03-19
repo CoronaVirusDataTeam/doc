@@ -344,9 +344,9 @@ Coronavirus Data Scraper (CDS) dataset collected during the SARS-CoV-2:COVID-19 
 
 `recovered:`
 
--	description: Number of current cumulative recovered
+-	description: date-retrieved for the record
 
--	standard:
+-	standard: [ISO 8601l Growth](https://en.wikipedia.org/wiki/ISO_8601)
 
 -	datatype: integer
 
