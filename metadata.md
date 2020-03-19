@@ -207,7 +207,7 @@ Coronavirus Data Scraper (CDS) dataset collected during the SARS-CoV-2:COVID-19 
 	
 `aggregate:`
 
--	description: Whether this data source provides aggregate information (i.e. this county-level data was scraped from a state-level source)
+-	description: Whether this data source provides aggregate information; this county-level data was scraped from a state-level source; data at this level can be a summary of smaller regions.
 
 -	standard: 
 
