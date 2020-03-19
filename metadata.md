@@ -35,7 +35,7 @@
 	
 ## Abstract
 
-Dataset for SARS-CoV-2/COVID-19 Pandemic
+The [Coronavirus Data Scraper](https://coronadatascraper.com/) team objective is to collect authoritative data that is being reported from local/state/national sources, in an aggregated [dataset](https://github.com/CoronaVirusDataTeam/docs/blob/master/metadata.md), during the SARS-CoV-2:COVID-19 pandemic with an origin in Wuhan China, December 2019.
 
 
 ### Short Abstract
